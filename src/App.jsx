@@ -1,5 +1,7 @@
 import React from 'react'
-import XSpellCheck from './assets/Components/XspellCheck'
+import XSpellCheck from './Components/XSpellCheck'
+
+
 
 const App = () => {
   return (
